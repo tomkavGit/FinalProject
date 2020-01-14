@@ -4,7 +4,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class AppLogin extends AppCompatActivity
 {
-
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
