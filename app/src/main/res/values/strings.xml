@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="Close">FinalProject</string>
+    <string name="Open">FinalProject</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="post_button">Make Post</string>
+    <string name="post_new_button">New Discussion</string>
+    <string name="login_button">Login</string>
+    <string name="email_hint">exmaple@email.com</string>
+    <string name="username_hint">username</string>
+    <string name="password_hint">password</string>
+    <string name="post_body">Write post here...</string>
+    <string name="topic_title">Discussion Title</string>
+    <string name="discussion_title">Discussions</string>
+    <string name="post_reply">Post Reply</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="popular">Popular</string>
+    <string name="newest">Newest</string>
+    <string name="newest_discussions">Newest Discussions</string>
+    <string name="popular_discussions">Popular Discussions</string>
+    <string name="newest_comments">Newest Comments</string>
+    <string name="popular_comments">Popular Comments</string>
+</resources>
